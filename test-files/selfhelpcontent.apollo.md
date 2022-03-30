@@ -28,7 +28,7 @@
 
 * [Using Soft-Delete and Backup and Restore Behavior with Key Vault](https://docs.microsoft.com/azure/key-vault/key-vault-ovw-soft-delete)
 
-* If you deleted a key vault it will exist in the soft-deleted state if you had soft-delete enabled on the key vault and the retention period has not elapsed. **If you did not have soft delete enabled, or the soft delete retention period has elapsed, your key vault has been permanently deleted and it is impossible for you or Microsoft to recover your key vault.** Use the following references to list and recover a deleted key vault.
+* If you deleted a key vault it will exist in the soft-deleted state if you had soft-delete enabled on the key vault and the retention period has not elapsed. **If you didn't have soft delete enabled, or the soft delete retention period has elapsed, your key vault has been permanently deleted and it is impossible for you or Microsoft to recover your key vault.** Use the following references to list and recover a deleted key vault.
 
 	* [List deleted Key Vaults](https://docs.microsoft.com/cli/azure/keyvault?view=azure-cli-latest#az-keyvault-list-deleted)
 	* [Recover a deleted Key Vault](https://docs.microsoft.com/cli/azure/keyvault?view=azure-cli-latest#az-keyvault-recover)

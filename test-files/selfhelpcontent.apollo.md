@@ -1,6 +1,6 @@
 ﻿<properties
 	pageTitle="Lost or Deleted Keys and Secrets in Key Vault"
-	description="Using Soft-Delete and Backup and Restore Behavior with Key Vault"
+	description="Using Soft-Delete and Backup and Restore Behavior with Key Vault - 10/6/2022"
 	authors="ShaneBala-keyvault"
 	ms.author="sudbalas"
 	displayOrder="1"
